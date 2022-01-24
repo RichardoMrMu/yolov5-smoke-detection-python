@@ -12,7 +12,8 @@ If you want to try to train your own model, you can see [yolov5-smoke-detection-
 
 # Dataset
 
-https://pan.baidu.com/s/1vmjV1HwhcMOdUqFhKwH4Mg，提取码：pqsv
+https://pan.baidu.com/s/1vmjV1HwhcMOdUqFhKwH4Mg
+提取码：pqsv
 
 ## Data
 This pro needs dataset like 
